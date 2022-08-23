@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Kegantu
 - 👀 I’m interested in C#, gamedev, Java and Lua
 - 🌱 I’m currently learning C#
-- 📫 How to reach me:
- -Discord - artem1290#8295 
- -Mail - kaluznijartem99@gmail.com
+- 📫 How to reach me
+ - Discord: artem1290#8295 
+ - Mail: kaluznijartem99@gmail.com
 
 
 <!---
