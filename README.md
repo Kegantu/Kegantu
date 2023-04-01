@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kegantu
-- 👀 I’m interested in C#, gamedev, Java and Lua
+- 👀 I’m learning C# and Unity
 - 🌱 I’m currently learning C# and blueprints in unreal engine 5
 - 📫 How to reach me
   - Mail: kaluznijartem99@gmail.com
