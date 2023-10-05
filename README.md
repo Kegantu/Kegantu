@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kegantu
 - 👀 I’m learning C# and Unity
 - 📫 How to reach me
-  - Mail: kaluznijartem99@gmail.com
-  - Discord: artem1290#8295
+  - Discord: kegantu
 
 
 <!---
